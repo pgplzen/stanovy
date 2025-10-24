@@ -17,7 +17,7 @@ header-includes: |
     
     \vfill
     
-    {\large revize 2025.1\par}
+    {\large revize 2025.2\par}
     \end{titlepage}
     \newpage
   }
@@ -35,17 +35,21 @@ Západočeský paragliding klub Plzeň z.s. je dobrovolný, nezávislý, zájmov
 
 # 3. Účel spolku
 
-Účelem spolku je vytvářet a realizovat podmínky pro zájmovou, sportovní, technickou, společenskou, rekreační a kulturní činnost členů, přičemž vytvářením podmínek se rozumí i získávání finančních prostředků na svoji činnost včetně výnosů z využívání vlastního majetku. Spolek může pro získání finančních prostředků provádět i hospodářskou činnost.
+Účelem spolku je vytvářet podmínky pro zájmovou, sportovní, technickou, společenskou, rekreační a kulturní činnost členů, přičemž vytvářením podmínek se rozumí i získávání finančních prostředků na svoji činnost včetně výnosů z využívání vlastního majetku. Spolek může pro získání finančních prostředků provádět i vedlejší hospodářskou činnost.
 
-# 4. Vznik a zánik členství ve spolku
+# 4. Členství ve spolku
 
 ## 4.1. Vznik členství
 
-1) Zažádat o členství může každá fyzická osoba. Přihláška se podává k rukám výboru a musí obsahovat: jméno a příjmení žadatele, adresu trvalého bydliště, rodné číslo, telefonické spojení a e-mailovou adresu. O přijetí za člena rozhoduje výbor. Členství ve spolku vzniká až dnem schválení výborem.
+1) Zažádat o členství může každá fyzická osoba. Přihláška se podává k rukám výboru a musí obsahovat: jméno a příjmení žadatele, adresu trvalého bydliště, rodné číslo, telefonické spojení a e-mailovou adresu. O přijetí žadatele za člena rozhoduje výbor. Členství ve spolku vzniká dnem schválení výborem.
 
-2) Seznam členů spolku je neveřejný a je zpřístupněn výhradně členům výboru, s výjimkou údajů o své osobě ve smyslu § 236 odst. 2 občanského zákoníku. Zápis a výmazy v tomto seznamu provádí dle potřeby výbor.
+## 4.2. Evidence členů
 
-## 4.2. Práva a povinnosti Členů spolku
+1) Seznam členů spolku je neveřejný a je zpřístupněn výhradně členům výboru, s výjimkou údajů o své osobě ve smyslu § 236 odst. 2 občanského zákoníku.
+
+2) Zápis a výmazy v tomto seznamu provádí dle potřeby výbor.
+
+## 4.3. Práva a povinnosti Členů spolku
 
 1) Člen spolku vykonává svá práva a plní povinnosti vyplývající z těchto stanov osobně, nestanoví-li stanovy jinak.
 
@@ -109,13 +113,15 @@ Západočeský paragliding klub Plzeň z.s. je dobrovolný, nezávislý, zájmov
 
 5) Výbor má zpravidla pět členů, kteří jsou voleni a odvoláváni členskou schůzí.
 
-6) Každý rok volí členská schůze jednoho člena výboru, nestanoví-li tyto stanovy jinak.
+6) Do výboru může být zvolen pouze člen spolku.
 
-7) Funkční období jednotlivých členů výboru je pětileté, ledaže je člen výboru volen jako náhradník za člena, jehož funkce zanikla jinak, než uplynutím funkčního období – v tom případě funkční období odpovídá zbytku funkčního období člena, jehož ve funkci nahrazuje.
+7) Každý rok volí členská schůze jednoho člena výboru, nestanoví-li tyto stanovy jinak.
 
-8) Funkce ve výboru zaniká uplynutím funkčního období, odstoupením, nebo odvoláním členskou schůzí. Odvoláním končí funkce dnem, kdy o tom členská schůze rozhodla. Odstoupením končí funkce dnem, kdy oznámení o odstoupení bylo doručeno kterémukoliv jinému členovi výboru. Doplňující volba za člena, jehož funkce zanikla, musí být provedena na nejbližší členské schůzi.
+8) Funkční období jednotlivých členů výboru je pětileté, ledaže je člen výboru volen jako náhradník za člena, jehož funkce zanikla jinak, než uplynutím funkčního období – v tom případě funkční období odpovídá zbytku funkčního období člena, jehož ve funkci nahrazuje.
 
-9) Je-li některý z členů výboru odvolán členskou schůzí ze své funkce před uplynutím svého funkčního období, zůstává i nadále členem spolku.
+9) Funkce ve výboru zaniká uplynutím funkčního období, odstoupením, odvoláním členskou schůzí, nebo zánikem členství ve spolku. Odvoláním končí funkce dnem, kdy o tom členská schůze rozhodla. Odstoupením končí funkce dnem, kdy oznámení o odstoupení bylo doručeno kterémukoliv jinému členovi výboru. Doplňující volba za člena, jehož funkce zanikla, musí být provedena na nejbližší členské schůzi.
+
+10) Je-li některý z členů výboru odvolán členskou schůzí ze své funkce před uplynutím svého funkčního období, zůstává i nadále členem spolku.
 
 ## 5.3. Předseda
 
@@ -157,7 +163,7 @@ Západočeský paragliding klub Plzeň z.s. je dobrovolný, nezávislý, zájmov
 
 ## 8.2. Závěrečná ustanovení
 
-1) Písemná podání a oznámení mohou být učiněna v listinné podobě, nebo elektronicky.
+1) Písemná podání a oznámení mohou být učiněna v listinné podobě nebo elektronicky.
 
 2) Spolek se zakládá na dobu neurčitou.
 
