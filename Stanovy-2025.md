@@ -17,7 +17,7 @@ header-includes: |
     
     \vfill
     
-    {\large revize 2025.2\par}
+    {\large revize 2025.3\par}
     \end{titlepage}
     \newpage
   }
@@ -67,12 +67,15 @@ Západočeský paragliding klub Plzeň z.s. je dobrovolný, nezávislý, zájmov
    a) vystoupením
    b) vyloučením
    c) vyškrtnutím
+   d) úmrtím člena
 
 2) Člen může ze spolku kdykoliv vystoupit, musí však tento svůj úmysl písemně oznámit výboru. Členství ve spolku pak zanikne ke dni, kdy toto oznámení převzal kterýkoliv člen výboru.
 
-3) Výbor vyškrtne ze spolku člena, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené výborem dodatečně ve výzvě k zaplacení.
+3) Vyloučení člena je upraveno v § 239 až § 242 občanského zákoníku.
 
-4) Zanikne-li členství ve spolku, zaniká tím i členství v kterémkoliv orgánu spolku, a také všechny majetkové nároky vůči spolku.
+4) Výbor vyškrtne ze spolku člena, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené výborem dodatečně ve výzvě k zaplacení.
+
+5) Zanikne-li členství ve spolku, zaniká tím i členství v kterémkoliv orgánu spolku, a také všechny majetkové nároky vůči spolku.
 
 # 5. Orgány spolku
 
