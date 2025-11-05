@@ -17,7 +17,7 @@ header-includes: |
     
     \vfill
     
-    {\large revize 2025.3\par}
+    {\large revize 2025.4\par}
     \end{titlepage}
     \newpage
   }
@@ -170,4 +170,6 @@ Západočeský paragliding klub Plzeň z.s. je dobrovolný, nezávislý, zájmov
 
 2) Spolek se zakládá na dobu neurčitou.
 
-3) Stanovy v tomto znění byly schváleny členskou schůzí spolku dne XXXXXXXXX a tímto dnem nabývají platnosti.
+3) Spolek je právnickou osobou založenou v souladu se zákonem č. 89/2012 Sb., občanský zákoník, v platném znění.
+
+4) Stanovy v tomto znění byly schváleny členskou schůzí spolku dne XXXXXXXXX a tímto dnem nabývají platnosti.
